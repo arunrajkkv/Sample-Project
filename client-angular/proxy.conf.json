@@ -1,0 +1,26 @@
+{
+  "/hello": {
+    "target": "http://localhost:8082",
+    "secure": false
+  },
+  "/addPersonDetail": {
+    "target": "http://localhost:8082",
+    "secure": false
+  },
+  "/getPersonDetail": {
+    "target": "http://localhost:8082",
+    "secure": false
+  },
+  "/updateItem": {
+    "target": "http://localhost:8082",
+    "secure": false
+  },
+  "/deleteItem": {
+    "target": "http://localhost:8082",
+    "secure": false
+  },
+  "/products": {
+    "target": "http://localhost:8082",
+    "secure": false
+  }
+}

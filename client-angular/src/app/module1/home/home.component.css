@@ -1,0 +1,11 @@
+.margin-left {
+    margin-left: 5px;
+}
+
+.add-button {
+    height: 31px;
+    margin-left: 5px;
+    position: relative;
+    top: -2px;
+    line-height: 1px;
+}
